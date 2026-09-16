@@ -1,8 +1,8 @@
 # 🎬 AI Nedir? — Algoritma Nasıl Çalışır? | Eğitici Kısa Video
 
-![Thumbnail](./assets/thumbnail.png)
+![Thumbnail](thumbnail.png)
 
-📺 **YouTube:** [Videoyu İzle](YOUTUBE_LINK_BURAYA)
+📺 **YouTube:** [Videoyu İzle](https://youtube.com/shorts/RxaPOeDkZI8?feature=share)
 
 ---
 
